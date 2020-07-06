@@ -1,4 +1,4 @@
-package pesto.sh.sync.method;
+package pesto.shildt.sync.method;
 
 public class Caller implements Runnable {
   String msg;

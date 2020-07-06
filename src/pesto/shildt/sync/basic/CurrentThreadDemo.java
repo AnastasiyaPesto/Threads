@@ -1,4 +1,4 @@
-package pesto.sh.sync.basic;
+package pesto.shildt.sync.basic;
 
 /** Управление главным потоком исполнения */
 public class CurrentThreadDemo {
