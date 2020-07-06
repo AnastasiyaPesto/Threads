@@ -1,4 +1,4 @@
-package thread;
+package pesto.shildt;
 
 public class MultiThreadDemo {
   public static void main(String[] args) {

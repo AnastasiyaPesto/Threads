@@ -1,4 +1,4 @@
-package thread;
+package pesto.shildt;
 
 /** Управление главным потоком исполнения */
 public class CurrentThreadDemo {

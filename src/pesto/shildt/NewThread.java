@@ -1,4 +1,4 @@
-package thread;
+package pesto.shildt;
 
 public class NewThread implements Runnable {
   String name;
