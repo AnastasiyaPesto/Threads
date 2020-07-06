@@ -1,9 +1,8 @@
-package pesto.shildt;
+package pesto.sh.sync.basic;
 
 public class NewThread implements Runnable {
   String name;
   Thread t;
-
   NewThread(String threadName) {
     name = threadName;
     // создать новый, второй поток исполнения

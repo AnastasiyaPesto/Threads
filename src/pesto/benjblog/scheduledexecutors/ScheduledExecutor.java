@@ -1,4 +1,4 @@
-package pesto.benjaminblog.scheduledexecutors;
+package pesto.benjblog.scheduledexecutors;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

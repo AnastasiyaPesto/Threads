@@ -1,4 +1,4 @@
-package pesto.shildt.sync.method;
+package pesto.sh.sync.method;
 
 public class Caller implements Runnable {
   String msg;
@@ -15,5 +15,6 @@ public class Caller implements Runnable {
   @Override
   public void run() {
     target.call(msg);
+    //
   }
 }

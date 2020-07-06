@@ -1,4 +1,4 @@
-package pesto.shildt.sync.method;
+package pesto.sh.sync.method;
 
 public class Sync {
   public static void main(String[] args) {

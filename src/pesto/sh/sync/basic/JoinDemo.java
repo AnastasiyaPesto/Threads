@@ -1,4 +1,4 @@
-package pesto.shildt;
+package pesto.sh.sync.basic;
 
 public class JoinDemo {
   public static void main(String[] args) {
