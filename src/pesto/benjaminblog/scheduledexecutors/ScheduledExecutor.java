@@ -14,7 +14,7 @@ public class ScheduledExecutor {
 
     TimeUnit.MILLISECONDS.sleep(1337);
 
-    long remaningDelay = future.getDelay(TimeUnit.MILLISECONDS);
-    System.out.printf("Remaning Delay: %sms \n", remaningDelay);
+    long remainingDelay = future.getDelay(TimeUnit.MILLISECONDS);
+    System.out.printf("Remaining Delay: %s ms\n", remainingDelay);
   }
 }
